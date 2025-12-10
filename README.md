@@ -146,7 +146,7 @@ Silakan modifikasi dan kembangkan sesuai kebutuhan tugas atau portofolio kamu!
 ---
 ![Home](foto/home.png)
 ![Produk](foto/produk.png)
-![Favorite(foto/favorite.png)
+![Favorite](foto/favorite.png)
 ![Keranjang](foto/keranjang.png)
 ![Akun](foto/akun.png)
 ![Pembayaran](foto/pembayaran.png)
