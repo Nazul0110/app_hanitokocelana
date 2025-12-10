@@ -80,7 +80,6 @@ Aplikasi juga sudah mendukung **dark mode** dengan tombol toggle langsung di dal
 
 Pastikan di `pubspec.yaml` bagian `flutter` sudah seperti ini:
 
-```yaml
 flutter:
   uses-material-design: true
 
