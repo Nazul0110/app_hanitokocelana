@@ -149,4 +149,4 @@ Silakan modifikasi dan kembangkan sesuai kebutuhan tugas atau portofolio kamu!
 ![Favorite(foto/favorite.png)
 ![Keranjang](foto/keranjang.png)
 ![Akun](foto/akun.png)
-![Pembayaran](foto/pembayaran selesai.png)
+![Pembayaran Selesai](foto/pembayaran selesai.png)
