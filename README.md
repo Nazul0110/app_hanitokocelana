@@ -156,12 +156,7 @@ Penyimpanan keranjang dan favorit dengan database lokal (misalnya sqflite atau h
 
 Terima kasih sudah melihat proyek Hani Toko Celana 👖
 Silakan modifikasi dan kembangkan sesuai kebutuhan tugas atau portofolio kamu!
-<img width="473" height="991" alt="Screenshot 2025-12-10 200714" src="https://github.com/user-attachments/assets/8c8407a2-4d79-4ce7-9dfa-a178018df8ca" />
-<img width="475" height="1005" alt="Screenshot 2025-12-10 200725" src="https://github.com/user-attachments/assets/db3b448a-b80d-454a-a759-6c85bf546c82" />
-<img width="474" height="1010" alt="Screenshot 2025-12-10 200733" src="https://github.com/user-attachments/assets/407092b0-cdfc-4cfc-9fac-2bb2878eacd2" />
-<img width="475" height="998" alt="Screenshot 2025-12-10 200743" src="https://github.com/user-attachments/assets/34dd5820-3a22-4450-ab0e-c46006ad3fc3" />
-<img width="478" height="1006" alt="Screenshot 2025-12-10 200753" src="https://github.com/user-attachments/assets/715a2aec-63cc-4732-9dc4-0fe2d1e1641c" />
-<img width="482" height="1008" alt="Screenshot 2025-12-10 200807" src="https://github.com/user-attachments/assets/e5f9e495-ac61-42de-add9-aa4281a96781" />
+![Home](foto/home.png)
 
 
 
