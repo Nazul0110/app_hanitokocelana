@@ -110,9 +110,7 @@ flutter pub get
 
 
 Pastikan folder assets & gambar sudah benar
-
 Struktur minimal:
-
 lib/
   main.dart
 assets/
@@ -122,8 +120,6 @@ assets/
     celana_jogger.png
     celana_cargo.png
 pubspec.yaml
-
-
 Clean project (opsional tapi disarankan setelah ubah assets)
 
 flutter clean
@@ -134,28 +130,23 @@ Jalankan di emulator / device
 
 flutter run
 
-
-Coba fitur dark mode
-
-Buka aplikasi.
-
-Di halaman Home, tap ikon 🌙 / ☀️ di kanan atas untuk mengubah tema.
+-Coba fitur dark mode
+-Buka aplikasi.
+-Di halaman Home, tap ikon 🌙 / ☀️ di kanan atas untuk mengubah tema.
 
 💡 Catatan
-
 Data produk yang digunakan masih dummy (hardcoded) di file main.dart.
-
 Aplikasi ini bisa dikembangkan lagi:
-
 Integrasi backend / API.
-
 Sistem login & autentikasi.
-
 Penyimpanan keranjang dan favorit dengan database lokal (misalnya sqflite atau hive).
 
 Terima kasih sudah melihat proyek Hani Toko Celana 👖
 Silakan modifikasi dan kembangkan sesuai kebutuhan tugas atau portofolio kamu!
+---
 ![Home](foto/home.png)
-
-
-
+![Produk](foto/produk.png)
+![Favorite(foto/favorite.png)
+![Keranjang](foto/keranjang.png)
+![Akun](foto/akun.png)
+![Pembayaran(foto/pembayaran selesai.png)
